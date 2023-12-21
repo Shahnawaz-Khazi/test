@@ -2,8 +2,11 @@
      margin: 0;
 }
 p{
-     background-color: green;
+     background-color: red;
 }
 p:first-child{
-     background-color: brown;
+     background-color: green;
+}
+p:last-child{
+     background-color: blue;
 }
